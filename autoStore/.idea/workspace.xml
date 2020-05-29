@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c25caa6e-4f09-4de5-aa58-10f7ba5867ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JS/test/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JS/test/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grunt/src/css/main_product.less" beforeDir="false" afterPath="$PROJECT_DIR$/grunt/src/css/main_product.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1VWxS8EiHdwkeS3jurTkPs2DPe3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/var/www/html/magento2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c25caa6e-4f09-4de5-aa58-10f7ba5867ec" name="Default Changelist" comment="" />
+      <created>1577382648693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577382648693</updated>
+      <workItem from="1577382649971" duration="3245000" />
+      <workItem from="1582207490550" duration="670000" />
+      <workItem from="1582210153949" duration="3304000" />
+      <workItem from="1582227785939" duration="595000" />
+      <workItem from="1582233693692" duration="615000" />
+      <workItem from="1582271000779" duration="1629000" />
+      <workItem from="1582287993115" duration="2646000" />
+      <workItem from="1582302560150" duration="23000" />
+      <workItem from="1582310166200" duration="1019000" />
+      <workItem from="1582317028398" duration="209000" />
+      <workItem from="1582317493269" duration="18000" />
+      <workItem from="1582364054970" duration="1118000" />
+      <workItem from="1582731154930" duration="1526000" />
+      <workItem from="1582736991494" duration="597000" />
+      <workItem from="1582741507366" duration="597000" />
+      <workItem from="1582749798023" duration="30000" />
+      <workItem from="1582815366957" duration="1222000" />
+      <workItem from="1582828350089" duration="599000" />
+      <workItem from="1583339635866" duration="1216000" />
+      <workItem from="1583404701239" duration="524000" />
+      <workItem from="1583405521687" duration="596000" />
+      <workItem from="1583411583975" duration="597000" />
+      <workItem from="1583430372344" duration="603000" />
+      <workItem from="1583436123304" duration="278000" />
+      <workItem from="1583482529823" duration="1814000" />
+      <workItem from="1583498280987" duration="598000" />
+      <workItem from="1583504895269" duration="595000" />
+      <workItem from="1583512033016" duration="678000" />
+      <workItem from="1583570168586" duration="1199000" />
+      <workItem from="1583576964734" duration="601000" />
+      <workItem from="1583609433315" duration="641000" />
+      <workItem from="1583775249082" duration="1209000" />
+      <workItem from="1583784810651" duration="1240000" />
+      <workItem from="1583791677029" duration="238000" />
+      <workItem from="1583825729048" duration="1202000" />
+      <workItem from="1583831951630" duration="776000" />
+      <workItem from="1583842514114" duration="594000" />
+      <workItem from="1583850833822" duration="939000" />
+      <workItem from="1583858312131" duration="599000" />
+      <workItem from="1583950461963" duration="1135000" />
+      <workItem from="1583958236068" duration="697000" />
+      <workItem from="1583965333072" duration="599000" />
+      <workItem from="1584002817821" duration="1469000" />
+      <workItem from="1584018707937" duration="598000" />
+      <workItem from="1584030113800" duration="677000" />
+      <workItem from="1584036314587" duration="596000" />
+      <workItem from="1584043537680" duration="596000" />
+      <workItem from="1584048589476" duration="596000" />
+      <workItem from="1584090046565" duration="1185000" />
+      <workItem from="1584273397845" duration="297000" />
+      <workItem from="1584274302965" duration="595000" />
+      <workItem from="1584281354644" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
